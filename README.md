@@ -71,7 +71,7 @@ pip install -r requirements.txt
 streamlit run main.py
 
 ## Output
-![Screenshot 2025-01-30 094625](https://github.com/user-attachments/assets/ad968ecc-8859-46b4-8302-dbf265054f4d)
+![Screenshot 2025-01-30 094625](https://github.com/user-attachments/assets/fd41db98-13b3-4438-aa44-4144b1867f8a)
 
 # Data after downloading, will be in csv format
 ![image](https://github.com/user-attachments/assets/6b63d654-b2d9-4ce3-ab02-ba49e88b5eb0)
